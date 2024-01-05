@@ -39,7 +39,7 @@ function FavoriteColor() {
 
 ```jsx
 import { useState } from "react";
-import ReactDOM from "react-level 4 dom/client";
+import ReactDOM from "react-level4_dom/client";
 
 function FavoriteColor() {
   const [color, setColor] = useState("red");
@@ -65,7 +65,7 @@ root.render(<FavoriteColor />);
 
 ```jsx
 import { useState, useEffect } from "react";
-import ReactDOM from "react-level 4 dom/client";
+import ReactDOM from "react-level4_dom/client";
 
 function Timer() {
   const [count, setCount] = useState(0);
@@ -114,7 +114,7 @@ useEffect(() => {
 
 ```jsx
 import { useState, useEffect } from "react";
-import ReactDOM from "react-level 4 dom/client";
+import ReactDOM from "react-level4_dom/client";
 
 function Counter() {
   const [count, setCount] = useState(0);

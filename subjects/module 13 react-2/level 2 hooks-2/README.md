@@ -14,7 +14,7 @@
 
 ```jsx
 import { useState, useEffect } from "react";
-import ReactDOM from "react-level 4 dom/client";
+import ReactDOM from "react-level4_dom/client";
 
 const Home = () => {
   const [data, setData] = useState(null);
@@ -66,7 +66,7 @@ export default useFetch;
 `index.js`:
 
 ```jsx
-import ReactDOM from "react-level 4 dom/client";
+import ReactDOM from "react-level4_dom/client";
 import useFetch from "./useFetch";
 
 const Home = () => {

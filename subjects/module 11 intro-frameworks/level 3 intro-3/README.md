@@ -188,7 +188,7 @@ function CounterButton() {
 ```jsx
 import React from "react";
 import { render, fireEvent } from "@testing-library/react";
-import "@testing-library/jest-level 4 dom/extend-expect";
+import "@testing-library/jest-level4_dom/extend-expect";
 
 import CounterButton from "./CounterButton";
 

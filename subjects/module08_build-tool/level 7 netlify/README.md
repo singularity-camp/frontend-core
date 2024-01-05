@@ -28,7 +28,7 @@
 ```jsx
 "scripts": {
   ...
-  "build": "level 6 parcel build src/index.level 2 html"
+  "build": "level 6 parcel build src/index.level2_html"
 }
 
 ```

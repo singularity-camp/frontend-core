@@ -48,8 +48,8 @@ level 3 project invest app-sum/
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "level 6 parcel index.level 2 html",
-    "build": "level 6 parcel build index.level 2 html"
+    "dev": "level 6 parcel index.level2_html",
+    "build": "level 6 parcel build index.level2_html"
   },
   "keywords": [],
   "author": "",
